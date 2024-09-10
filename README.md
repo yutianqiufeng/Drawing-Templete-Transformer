@@ -16,3 +16,7 @@
 在我们的测试中torch 1.10.2+cu102 ， paddleocr 2.7.3 和 paddlepaddle 2.6.1可以成功运行，使用的显卡是rtx 1650ti。
 
 此外，我们准备了cpu版本，即torch使用gpu，paddle只使用cpu,需要安装paddle的cpu版本，并且修改call_transformerUI.py中33~46行的代码，注释掉gpu的paddle对象，取消cpu部分的注释。
+
+![WPS图片(1)](https://github.com/user-attachments/assets/cb6a59ba-2a4b-4308-8a39-49b388a3efb0)
+
+
