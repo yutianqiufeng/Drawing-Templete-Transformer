@@ -18,5 +18,7 @@
 此外，我们准备了cpu版本，即torch使用gpu，paddle只使用cpu,需要安装paddle的cpu版本，并且修改call_transformerUI.py中33~46行的代码，注释掉gpu的paddle对象，取消cpu部分的注释。
 
 ![WPS图片(1)](https://github.com/user-attachments/assets/cb6a59ba-2a4b-4308-8a39-49b388a3efb0)
-
-
+![2](https://github.com/user-attachments/assets/a9af6ab4-c43d-4d53-b03a-5446267314c2)
+![3](https://github.com/user-attachments/assets/7488bc67-025b-4101-9ae5-2f96668a061d)
+![4](https://github.com/user-attachments/assets/fcf4bc7b-a678-4169-b978-0a839c50ffc7)
+![5](https://github.com/user-attachments/assets/05e42d8b-d208-4149-b8f8-fc8eadf0e98d)
